@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://tenor.com/es-US/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862" width="100"/> Hi, I'm Karel!
+    <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="100"/> Hi, I'm Karel!
   </h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Student+%26+Developer+in+Progress+%F0%9F%9A%80;Passionate+about+Technology+%26+Software;Bug+Creator+and+Bug+Fixer+%F0%9F%90%9B;Fueled+by+Coffee+and+Curiosity+%E2%98%95" alt="Typing SVG" />
