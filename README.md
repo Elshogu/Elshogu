@@ -50,14 +50,8 @@ const Karel = {
 | [**Lleve-Llevele**](https://github.com/Elshogu/Lleve-Llevele) | Point of sale | JavaScript · Python |
 | [**wayland-dotfiles**](https://github.com/Elshogu/wayland-dotfiles) | My whole Wayland/Hyprland rice | Lua · Shell · Nix |
 
-## 📈 Contributions
 
 <div align="center">
-
-<!-- self-hosted, refreshed daily by .github/workflows/update-profile-art.yml -->
-<img src="./contrib-heatmap.svg" width="869" alt="GitHub contribution graph" />
-
-<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elshogu&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
 
